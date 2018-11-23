@@ -1,0 +1,27 @@
+{
+  "name": "jsstudy",
+  "version": "1.0.0",
+  "main": "server.js",
+  "module": "main.js",
+  "dependencies": {
+    "esm": "^3.0.84",
+    "pretty-bytes": "^5.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dkrlto0819/JSstudy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dkrlto0819/JSstudy/issues"
+  },
+  "homepage": "https://github.com/dkrlto0819/JSstudy#readme",
+  "description": ""
+}
